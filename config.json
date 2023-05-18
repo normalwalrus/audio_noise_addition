@@ -1,0 +1,9 @@
+{
+    "sample_rate": 16000,
+    "noise_STD": 1,
+    "chatter_volumn": 0.15,
+    "chatter_path": "chatter/chatter.wav",
+    "chatter_save_path": "chatter_audio/",
+    "noised_save_path": "noised_audio/",
+    "audio_path": "audio/"
+}
